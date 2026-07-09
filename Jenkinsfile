@@ -1,5 +1,5 @@
 pipeline {
-    agent { label 'ubuntu-agent' }
+    agent { label 'home-server' }
 
     stages {
 
